@@ -2,8 +2,11 @@
 import React from 'react';
 
 const Header = () => (
-	<div className="w-full z-10 ">
-		<div className="w-full flex justify-around pt-10  items-center">
+	<div className="w-full ">
+		<div className="w-full flex pt-5 ">
+			<div>
+				Urban Company
+			</div>
 			<div className="flex space-x-20 font-Titillium z-50 ">
 				<div className="cursor-pointer">
 					Explore
